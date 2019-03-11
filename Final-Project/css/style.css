@@ -1,0 +1,30 @@
+/* Navbar */
+.navbar-brand {
+    font-family: Viga, Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 15px;
+}
+
+
+.about,
+.portfolio,
+.footer {
+    margin-top: 35px;  
+    margin-bottom: 100px;
+}
+
+.contact,
+.team{
+    margin-bottom: 100px;
+}
+
+.footer p,a{
+    color: black;
+    font-size: 16px;
+}
+
+
